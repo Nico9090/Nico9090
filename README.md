@@ -10,6 +10,7 @@ I explore biology and chemistry from a computational perspective. I research dat
 <h3 align="left">Connect with me:
   
   @jonick9090@gmail.com  
+  
   https://www.linkedin.com/in/nicholas-dadzie-78aa40222/
   
   </h3>
