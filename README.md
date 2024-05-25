@@ -7,7 +7,12 @@
 Graduated with a B.S in May 2024. 
 I explore biology and chemistry from a computational perspective. I research data science and machine learning pipelines and apply them to answer various biological research questions. I am currently working on a workflow to expand upon models of sickle cell hemoglobin polymerizaton. I am also planning projects on drug discovery and gene classification using python, R, and UNIX. 
 
-<h3 align="left">Connect with me: @jonick9090@gmail.com  https://www.linkedin.com/in/nicholas-dadzie-78aa40222/</h3>
+<h3 align="left">Connect with me:
+  
+  @jonick9090@gmail.com  
+  https://www.linkedin.com/in/nicholas-dadzie-78aa40222/
+  
+  </h3>
 <p align="left">
 </p>
 
