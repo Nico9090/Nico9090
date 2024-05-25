@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicholas Dadzie</h1>
 <h3 align="center">A passionate bioinformatics researcher</h3>
+<h3 align="center">![Bioinformatics Developer](https://www.icgeb.org/wp-content/uploads/2023/01/Genomic-analysis-488977381.png)
 
 - 🔭 I’m currently working on [Sequence Classification](https://github.com/Nico9090/DNA-Sequence-Classification-Project)
 
