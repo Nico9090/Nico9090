@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas Dadzie</h1>
 <h3 align="center">A passionate bioinformatics researcher</h3>
-<h3 align="center">![![image](https://github.com/Nico9090/Nico9090/assets/161892855/bf7c214c-d341-4611-bbc6-00941f543ef1)
-]("C:\Users\teemo\OneDrive\Pictures\Screenshots\gitproflie.png")
+<img align="center" alt="Bioinformatics and Computational Biology" width="400" src=![image](https://github.com/Nico9090/Nico9090/assets/161892855/68d57a3c-6a3d-4ac0-8fb7-ebbd69078b3a)>
+
 
 
 - 🔭 I’m currently working on [Sequence Classification](https://github.com/Nico9090/DNA-Sequence-Classification-Project)
