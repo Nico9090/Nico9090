@@ -3,17 +3,11 @@
 <img align="center" alt="Bioinformatics and Computational Biology" width="400" src="https://github.com/Nico9090/Nico9090/assets/161892855/68d57a3c-6a3d-4ac0-8fb7-ebbd69078b3a">
 <img align="right" alt="Bioinformatics and Computational Biology" width="400" src="https://github.com/Nico9090/Nico9090/assets/161892855/2b4f7fb8-fb43-490a-8c1e-fd7f45203f7d">
 
+**Biography**
+Graduated with a B.S in May 2024. 
+I explore biology and chemistry from a computational perspective. I research data science and machine learning pipelines and apply them to answer various biological research questions. I am currently working on a workflow to expand upon models of sickle cell hemoglobin polymerizaton. I am also planning projects on drug discovery and gene classification using python, R, and UNIX. 
 
-
-- 🔭 I’m currently working on [Sequence Classification](https://github.com/Nico9090/DNA-Sequence-Classification-Project)
-
-- 🌱 I’m currently learning **R, Python, machine learning for bioinformatics pipelines**
-
-- 👯 I’m looking to collaborate on **Precision Omics**
-
-- 📫 How to reach me **jonick9090@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **@jonick9090@gmail.com**  **Linkedin** </h3>
 <p align="left">
 </p>
 
